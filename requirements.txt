@@ -25,7 +25,7 @@ colorama==0.3.9
 colorlog==4.0.2
 concurrent-log-handler==0.9.9
 configparser==5.0.0
-cryptography==2.6.1
+cryptography==3.2
 cryptokit==0.0.7
 cssselect==1.0.3
 ddt==1.1.2
