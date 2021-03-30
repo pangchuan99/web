@@ -101,7 +101,7 @@ pyasn1==0.4.7
 pycparser==2.18
 pycryptodome==3.8.2
 pyee==5.0.0
-Pygments==2.4.2
+Pygments==2.7.4
 pyHook==1.5.1
 pymongo==3.5.1
 PyMySQL==0.9.3
