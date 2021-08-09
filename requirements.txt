@@ -123,7 +123,7 @@ PyTestReport==0.1.9.3
 python-utils==2.3.0
 pytz==2018.5
 PyUserInput==0.1.11
-pywin32==223
+pywin32==301
 PyYAML==3.12
 pyzmq==17.1.2
 requests==2.22.0
